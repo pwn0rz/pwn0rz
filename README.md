@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=pwn0rz)](https://github.com/pwn0rz)
+![pwn0rz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwn0rz&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pwn0rz)
+
 
 
 <!--
